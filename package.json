@@ -24,7 +24,7 @@
     "mongoose": "^5.9.13",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
-    "snyk": "^1.320.2"
+    "snyk": "^1.363.0"
   },
   "snyk": true
 }
