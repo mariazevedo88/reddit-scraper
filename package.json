@@ -21,10 +21,10 @@
   "homepage": "https://github.com/mariazevedo88/reddit-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "mongoose": "^5.10.0",
+    "mongoose": "^5.10.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "snyk": "^1.381.1"
+    "snyk": "^1.388.0"
   },
   "snyk": true
 }
