@@ -21,11 +21,11 @@
   "homepage": "https://github.com/mariazevedo88/reddit-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
-    "mongoose": "^5.11.17",
+    "mongoose": "^5.12.3",
     "npm-check-updates": "^11.1.8",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "snyk": "^1.458.0"
+    "snyk": "^1.518.0"
   },
   "snyk": true
 }
