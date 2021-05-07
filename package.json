@@ -22,7 +22,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
     "mongoose": "^5.11.18",
-    "npm-check-updates": "^11.1.8",
+    "npm-check-updates": "^11.4.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "snyk": "^1.459.0"
