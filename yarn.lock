@@ -1432,10 +1432,10 @@
   optionalDependencies:
     "saslprep" "^1.0.0"
 
-"mongoose@^6.0.4":
-  "integrity" "sha512-tkbyaGXj1gtIpsIBfp5fqWPzqL36nHfS0x4ykk0H9vHgSWXPvhzabtrs7c94li6Iqv13hTKXXQ4Q09o+mxIONw=="
-  "resolved" "https://registry.npmjs.org/mongoose/-/mongoose-6.0.4.tgz"
-  "version" "6.0.4"
+"mongoose@^6.0.8":
+  "integrity" "sha512-7XZ5TUoDtF8af7+mKfL58s8dN2BKmldQPTlmkb41PaRAleBVGeAck7Mj6JlIh9SOCi+64GT+afebiJaeyXe1Lw=="
+  "resolved" "https://registry.npmjs.org/mongoose/-/mongoose-6.0.8.tgz"
+  "version" "6.0.8"
   dependencies:
     "bson" "^4.2.2"
     "kareem" "2.3.2"
@@ -2069,10 +2069,10 @@
   "resolved" "https://registry.npmjs.org/smart-buffer/-/smart-buffer-4.2.0.tgz"
   "version" "4.2.0"
 
-"snyk@^1.697.0":
-  "integrity" "sha512-V07xQ53npbVQw9DldJr5SkGlFTUtlNxCCL5JUFA79EWY6pm8q6+eE/pzXif3/ywcF2K1/yiNM9DHmL5N+lGHmQ=="
-  "resolved" "https://registry.npmjs.org/snyk/-/snyk-1.697.0.tgz"
-  "version" "1.697.0"
+"snyk@^1.727.0":
+  "integrity" "sha512-x767hu/vtJp0o3jjYPlxL+bUWo7C7/ct2Zh6Xf6mHNdzXsgOI4KCbFCTJgQq4RnEY2V2/qX7vShBfBvBJBVqPw=="
+  "resolved" "https://registry.npmjs.org/snyk/-/snyk-1.727.0.tgz"
+  "version" "1.727.0"
 
 "socks-proxy-agent@^6.0.0":
   "integrity" "sha512-FIgZbQWlnjVEQvMkylz64/rUggGtrKstPnx8OZyYFG0tAFR8CSBtpXxSwbFLHyeXFn/cunFL7MpuSOvDSOPo9g=="
