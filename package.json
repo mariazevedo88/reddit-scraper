@@ -25,7 +25,7 @@
     "npm-check-updates": "^12.3.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "snyk": "^1.852.0"
+    "snyk": "^1.1064.0"
   },
   "snyk": true
 }
